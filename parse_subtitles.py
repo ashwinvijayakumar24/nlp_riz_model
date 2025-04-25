@@ -16,7 +16,7 @@ def parse_srt(file_path, movie_title, year):
     df["Year"] = [year] * len(dialogue) 
     df["Dialogue"] = dialogue
     
-    print(df.head())  # Display first few rows
+    print(df.head()) 
     return df
 
 
@@ -46,17 +46,16 @@ movie_dict = {
 
 all_movies_df = pd.DataFrame()
 
-# Loop through dictionary and process each movie
 for year, movies in movie_dict.items():
     for movie in movies:
-        file_name = movie.replace(" ", "_") + ".srt"  # Convert to file format
+        file_name = movie.replace(" ", "_") + ".srt" 
         try:
-            df = parse_srt(file_name, movie, year)  # Parse subtitles
-            all_movies_df = pd.concat([all_movies_df, df])  # Append to main DataFrame
+            df = parse_srt(file_name, movie, year) 
+            all_movies_df = pd.concat([all_movies_df, df])
         except FileNotFoundError:
             print(f"Warning: Subtitle file '{file_name}' not found for {movie} ({year})")
 
-# Save to CSV
+
 all_movies_df.to_csv("structured_dialogues.csv", index=False)
 
 print("CSV file updated successfully!")
