@@ -19,6 +19,16 @@ Main Hoon Na,2004,Naseeruddin Shah,Brig. Shekhar Sharma
 Main Hoon Na,2004,Boman Irani,Principal
 Main Hoon Na,2004,Bindu Desai,Miss Kaker
 Main Hoon Na,2004,Satish Shah,Prof. Rasai
+Mujhse Shaadi Karogi,2004,Salman Khan,Sameer Malhotra
+Mujhse Shaadi Karogi,2004,Akshay Kumar,Sunny
+Mujhse Shaadi Karogi,2004,Priyanka Chopra Jonas,Rani Singh
+Mujhse Shaadi Karogi,2004,Amrish Puri,Colonel Dugraj Singh
+Mujhse Shaadi Karogi,2004,Rajpal Naurang Yadav,Raj Purohit / Paul
+Mujhse Shaadi Karogi,2004,Satish Shah,Suraj Prakash
+Mujhse Shaadi Karogi,2004,Supriya Karnik,Rama Dugraj Singh
+Mujhse Shaadi Karogi,2004,Kader Khan,Mr. O. B. Duggal
+Mujhse Shaadi Karogi,2004,Rekha Rao,Mrs. Duggal
+Mujhse Shaadi Karogi,2004,Shashikala Jawalkar,Grandma Malhotra
 Dhoom,2004,Abhishek Bachchan,Jai Dixit
 Dhoom,2004,John Abraham,Kabir
 Dhoom,2004,Uday Chopra,Ali Khan
@@ -29,6 +39,26 @@ Dhoom,2004,Sanjay M. Singh,Rahul
 Dhoom,2004,Amir Farid,Tony
 Dhoom,2004,Mehul Bhojak,Manu
 Dhoom,2004,Rohit Chopra,Rohit
+Khakee,2004,Jeet,IPS Arjun Maitra
+Khakee,2004,Mithun Debnath,Putul
+Khakee,2004,Prosenjit Chatterjee,Barun Roy
+Khakee,2004,Parambrata Chattopadhyay,IPS Saptarshi Sinha
+Khakee,2004,Aadil Khan,Ranjit Thakur
+Khakee,2004,Chitrangda Singh,Nibedita Basak
+Khakee,2004,Saswata Chatterjee,Shankar Barua
+Khakee,2004,Ritwik Bhowmik,Sagor Talukdar
+Khakee,2004,Aakanksha Singh,Aratrika / ...
+Khakee,2004,Mimoh Chakraborty,Himel Majumder
+No Entry,2005,Anil Kapoor,Kishan Singhania
+No Entry,2005,Salman Khan,Prem Khanna
+No Entry,2005,Fardeen Khan,Shekhar 'Sunny'
+No Entry,2005,Bipasha Basu,Bobby
+No Entry,2005,Lara Dutta,Kaajal Singhania
+No Entry,2005,Esha Deol,Pooja Khanna
+No Entry,2005,Celina Jaitly,Sanjana Saxena
+No Entry,2005,Boman Irani,Minister P.J. Gupta
+No Entry,2005,Paresh Ganatra,Jagmohan Kaushik
+No Entry,2005,Pratima Kazmi,Mrs. Gupta
 Bunty Aur Babli,2005,Abhishek Bachchan,Rakesh Trivedi
 Bunty Aur Babli,2005,Rani Mukerji,Vimmi Saluja
 Bunty Aur Babli,2005,Amitabh Bachchan,DCP Dashrath Singh
@@ -39,26 +69,36 @@ Bunty Aur Babli,2005,Prem Chopra,Sikh Truck Driver
 Bunty Aur Babli,2005,Puneet Issar,Vimmi's Father
 Bunty Aur Babli,2005,Raj Babbar,Trivedi
 Bunty Aur Babli,2005,Rajesh Vivek,Protestor
-Mangal Pandey,2005,Aamir Khan,Sepoy Mangal Pandey
-Mangal Pandey,2005,Rani Mukerji,Heera
-Mangal Pandey,2005,Toby Stephens,Captain William Gordon
-Mangal Pandey,2005,Coral Beed,Emily
-Mangal Pandey,2005,Ameesha Patel,Jwala
-Mangal Pandey,2005,Kirron Kher,Lol Bibi
-Mangal Pandey,2005,Om Puri,Narrator
-Mangal Pandey,2005,Ben Nealon,Hewson
-Mangal Pandey,2005,Habib Tanvir,Bahadur Shah Zafar
-Mangal Pandey,2005,Varsha Usgaonkar,Rani Laxmibai
-Sarkar,2005,Amitabh Bachchan,Subhash Nagre 'Sarkar'
-Sarkar,2005,Abhishek Bachchan,Shankar Nagre
-Sarkar,2005,Kay Kay Menon,Vishnu Nagre
-Sarkar,2005,Supriya Pathak,Mrs. Pushpa Subhash Nagre
-Sarkar,2005,Katrina Kaif,Pooja
-Sarkar,2005,Tanishaa Mukerji,Avantika
-Sarkar,2005,Rukhsar Rehman,Mrs. Amrita Vishnu Nagre
-Sarkar,2005,Anupam Kher,Motilal Khurana
-Sarkar,2005,Kota Srinivasa Rao,Silver Mani
-Sarkar,2005,Deepak Shirke,Chief Minister Madan Rathore
+Saalam Namaste,2005,Saif Ali Khan,Nikhil 'Nick' Arora
+Saalam Namaste,2005,Preity G Zinta,"Ambar ""Ambi"" Malhotra"
+Saalam Namaste,2005,Arshad Warsi,"Ranjan ""Ron"" Mathur"
+Saalam Namaste,2005,Jaaved Jaaferi,Jaggu
+Saalam Namaste,2005,Jugal Hansraj,Jignesh Pandya
+Saalam Namaste,2005,Tania Zaetta,Cathy R. Mathur
+Saalam Namaste,2005,Kunal Vijaykar,Deepan Nair / Debonair
+Saalam Namaste,2005,Ravi Khote,Aslam Dheka
+Saalam Namaste,2005,Kavita Kapoor,Doctor Reshma Desai
+Saalam Namaste,2005,Maria Goretti,Cameo Appearance
+Garam Masala,2005,Akshay Kumar,Mac
+Garam Masala,2005,John Abraham,"Shyam ""Sam"""
+Garam Masala,2005,Paresh Rawal,Mambo
+Garam Masala,2005,Rimi Sen,Anjali
+Garam Masala,2005,Nitu Chandra,Sweety
+Garam Masala,2005,Nargis Bagheri,Puja
+Garam Masala,2005,Daisy Bopanna,Deepti
+Garam Masala,2005,Rajpal Naurang Yadav,Babban
+Garam Masala,2005,Govardhan Asrani,Mac's Maternal Uncle
+Garam Masala,2005,Manoj Joshi,Nageshwar
+Mangal Pandey -  The Rising,2005,Aamir Khan,Sepoy Mangal Pandey
+Mangal Pandey -  The Rising,2005,Rani Mukerji,Heera
+Mangal Pandey -  The Rising,2005,Toby Stephens,Captain William Gordon
+Mangal Pandey -  The Rising,2005,Coral Beed,Emily
+Mangal Pandey -  The Rising,2005,Ameesha Patel,Jwala
+Mangal Pandey -  The Rising,2005,Kirron Kher,Lol Bibi
+Mangal Pandey -  The Rising,2005,Om Puri,Narrator
+Mangal Pandey -  The Rising,2005,Ben Nealon,Hewson
+Mangal Pandey -  The Rising,2005,Habib Tanvir,Bahadur Shah Zafar
+Mangal Pandey -  The Rising,2005,Varsha Usgaonkar,Rani Laxmibai
 Dhoom 2,2006,Hrithik Roshan,Aryan / Mr. A
 Dhoom 2,2006,Abhishek Bachchan,Jai Dixit
 Dhoom 2,2006,Aishwarya Rai Bachchan,Sunehri
@@ -69,26 +109,46 @@ Dhoom 2,2006,Trishla Baid,Governess
 Dhoom 2,2006,Nikio,Elder Prince
 Dhoom 2,2006,Railey,Younger Prince
 Dhoom 2,2006,Harry,Cook
-Don,2006,Shah Rukh Khan,Mark Donald / Vijay Pal
-Don,2006,Priyanka Chopra Jonas,Roma Bhagat
-Don,2006,Arjun Rampal,Jasjit Ahuja
-Don,2006,Isha Koppikar,Anita
-Don,2006,Boman Irani,DCP D'Silva
-Don,2006,Om Puri,CBI Officer Vishal Malik
-Don,2006,Pawan Malhotra,Narang
-Don,2006,Rajesh Khattar,Singhania
-Don,2006,Tanay Chheda,Deepu
-Don,2006,Kareena Kapoor,Kamini
-Fanaa,2006,Aamir Khan,Rehan Qadri
-Fanaa,2006,Kajol,Zooni Ali Beg
-Fanaa,2006,Rishi Kapoor,Zulfikar Ali Beg
-Fanaa,2006,Tabu,Dr. Malini Tyagi
-Fanaa,2006,Kirron Kher,Nafisa Ali Beg
-Fanaa,2006,Lara Dutta,Zeenat
-Fanaa,2006,Shiney Ahuja,Major Suraj Ahuja
-Fanaa,2006,Satish Shah,Colonel Maan Singh
-Fanaa,2006,Lillete Dubey,Helen - Zooni's Instructor
-Fanaa,2006,Sharat Saxena,Susheel Rawat
+Krrish,2006,Hrithik Roshan,Krishna Mehra / Krrish / Rohit Mehra
+Krrish,2006,Priyanka Chopra Jonas,Priya
+Krrish,2006,Rekha,Sonia Mehra
+Krrish,2006,Naseeruddin Shah,Dr. Siddhant Arya
+Krrish,2006,Sharat Saxena,Vikram Sinha
+Krrish,2006,Manini Mishra,Honey
+Krrish,2006,Puneet Issar,Komal
+Krrish,2006,Hemant Pandey,Bahadur
+Krrish,2006,Akash Khurana,Catholic School Principal
+Krrish,2006,Archana Puran Singh,Priya & Honey's boss
+Lage Raho Munnabhai,2006,Sanjay Dutt,Murli Prasad Sharma
+Lage Raho Munnabhai,2006,Arshad Warsi,Sarkeshwar
+Lage Raho Munnabhai,2006,Vidya Balan,RJ Jhanvi Sahni
+Lage Raho Munnabhai,2006,Boman Irani,Lakhbir Singh
+Lage Raho Munnabhai,2006,Dilip Prabhawalkar,Mahatma Gandhi
+Lage Raho Munnabhai,2006,Dia Mirza,Simran L. Singh
+Lage Raho Munnabhai,2006,Jimmy Shergill,Victor D'Souza
+Lage Raho Munnabhai,2006,Kulbhushan Kharbanda,Kkhurana
+Lage Raho Munnabhai,2006,Parikshit Sahni,D'Souza
+Lage Raho Munnabhai,2006,Saurabh Shukla,Batuk Maharaj
+Kabhi Alvida Naa Kehna,2006,Amitabh Bachchan,Samarjit Talwar
+Kabhi Alvida Naa Kehna,2006,Shah Rukh Khan,Dev Saran
+Kabhi Alvida Naa Kehna,2006,Abhishek Bachchan,Rishi Talwar
+Kabhi Alvida Naa Kehna,2006,Rani Mukerji,Maya Talwar
+Kabhi Alvida Naa Kehna,2006,Preity G Zinta,Riya Saran
+Kabhi Alvida Naa Kehna,2006,Kirron Kher,Kamaljit 'Kamal' Saran
+Kabhi Alvida Naa Kehna,2006,Arjun Rampal,Jay
+Kabhi Alvida Naa Kehna,2006,John Abraham,DJ at club
+Kabhi Alvida Naa Kehna,2006,Logan Anderson,Receptionist
+Kabhi Alvida Naa Kehna,2006,Lisa Anzelmo,American Reporter
+Don - The Chase Begins Again,2006,Shah Rukh Khan,Mark Donald / Vijay Pal
+Don - The Chase Begins Again,2006,Priyanka Chopra Jonas,Roma Bhagat
+Don - The Chase Begins Again,2006,Arjun Rampal,Jasjit Ahuja
+Don - The Chase Begins Again,2006,Isha Koppikar,Anita
+Don - The Chase Begins Again,2006,Boman Irani,DCP D'Silva
+Don - The Chase Begins Again,2006,Om Puri,CBI Officer Vishal Malik
+Don - The Chase Begins Again,2006,Pawan Malhotra,Narang
+Don - The Chase Begins Again,2006,Rajesh Khattar,Singhania
+Don - The Chase Begins Again,2006,Tanay Chheda,Deepu
+Don - The Chase Begins Again,2006,Kareena Kapoor,Kamini
 Om Shanti Om,2007,Shah Rukh Khan,Om Prakash Makhija / Om Kapoor
 Om Shanti Om,2007,Arjun Rampal,Mukesh 'Mike' Mehra
 Om Shanti Om,2007,Kirron Kher,Bela Makhija
@@ -99,16 +159,36 @@ Om Shanti Om,2007,Jawed Sheikh,Rajesh Kapoor
 Om Shanti Om,2007,Satish Shah,Partho Roy - Film director
 Om Shanti Om,2007,Yuvika Chaudhary,Dolly
 Om Shanti Om,2007,Shawar Ali,Self
-Chak De India,2007,Shah Rukh Khan,Kabir Khan
-Chak De India,2007,Vidya Malvade,Vidya Sharma
-Chak De India,2007,Sagarika Ghatge,Preety Sabharwal
-Chak De India,2007,Shilpa Shukla,Bindia Naik
-Chak De India,2007,Chitrashi Rawat,Komal Chautala
-Chak De India,2007,Tanya Abrol,Balbir Kaur
-Chak De India,2007,Arya Menon,Gul Iqbal
-Chak De India,2007,Seema Azmi,Rani Dispotta
-Chak De India,2007,Nisha Nair,Soimoi Kerketa
-Chak De India,2007,Sandia Furtado,Nethra Reddy
+Welcome,2007,Akshay Kumar,Rajiv Saini
+Welcome,2007,Katrina Kaif,Sanjana S. Shetty
+Welcome,2007,Nana Patekar,Uday Shankar Shetty
+Welcome,2007,Anil Kapoor,Sagar 'Majnu' Pandey
+Welcome,2007,Paresh Rawal,Dr. Dayal Ghungroo
+Welcome,2007,Supriya Karnik,Payal Ghungroo
+Welcome,2007,Feroz Khan,Ranvir 'RDX' Dhanraj Xaja
+Welcome,2007,Mallika Sherawat,Ishika / Isha
+Welcome,2007,Sanjay Mishra,Pandit Manilal Shastri
+Welcome,2007,Sherveer Vakil,Lucky Xaka
+Chak de India,2007,Shah Rukh Khan,Kabir Khan
+Chak de India,2007,Vidya Malvade,Vidya Sharma
+Chak de India,2007,Sagarika Ghatge,Preety Sabharwal
+Chak de India,2007,Shilpa Shukla,Bindia Naik
+Chak de India,2007,Chitrashi Rawat,Komal Chautala
+Chak de India,2007,Tanya Abrol,Balbir Kaur
+Chak de India,2007,Arya Menon,Gul Iqbal
+Chak de India,2007,Seema Azmi,Rani Dispotta
+Chak de India,2007,Nisha Nair,Soimoi Kerketa
+Chak de India,2007,Sandia Furtado,Nethra Reddy
+Partner,2007,Aadhi,Sridhar
+Partner,2007,Agastin,Black Berry
+Partner,2007,K. Bujju Babu,Driving Instructor
+Partner,2007,Yogi Babu,Kalyanaraman
+Partner,2007,Redin Kingsley,Narrator
+Partner,2007,Pallak Lalwani,Priya
+Partner,2007,Lollu Sabha Manohar,Guy In Store
+Partner,2007,Ravi Mariya,Agnikunju - Minister
+Partner,2007,Hansika Motwani,Female Kalyan
+Partner,2007,Nandhini Myna,Sengamalam
 Taare Zameen Par,2007,Darsheel Safary,Ishaan Nandkishore Awasthi
 Taare Zameen Par,2007,Aamir Khan,Ram Shankar Nikumbh
 Taare Zameen Par,2007,Tisca Chopra,Maya Awasthi
@@ -119,36 +199,56 @@ Taare Zameen Par,2007,Girija Oak,Jabeen Khan
 Taare Zameen Par,2007,Lalitha Lajmi,Art Mela's Chief Guest
 Taare Zameen Par,2007,Ravi Khanvilkar,Mr. Holkar
 Taare Zameen Par,2007,Pratima Kulkarni,Principal - St. Anthony's School
-Jodhaa Ahkbar,2008,Hrithik Roshan,Jalaluddin Mohammad Akbar
-Jodhaa Ahkbar,2008,Aishwarya Rai Bachchan,Jodhaa Bai
-Jodhaa Ahkbar,2008,Sonu Sood,Sujamal
-Jodhaa Ahkbar,2008,Poonam Sinha,Mallika Hamida Banu
-Jodhaa Ahkbar,2008,Suhasini Mulay,Rani Padmavati
-Jodhaa Ahkbar,2008,Ila Arun,Maham Anga
-Jodhaa Ahkbar,2008,Raza Murad,Shamsuddin Atka Khan
-Jodhaa Ahkbar,2008,Kulbhushan Kharbanda,Raja Veer Bharmal
-Jodhaa Ahkbar,2008,Surendra Pal,Rana Uday Singh
-Jodhaa Ahkbar,2008,Rajesh Vivek,Chughtai Khan
-Sarkar Raj,2008,Amitabh Bachchan,Subhash 'Sarkar' Nagare
-Sarkar Raj,2008,Abhishek Bachchan,Shankar Nagre
-Sarkar Raj,2008,Aishwarya Rai Bachchan,Anita Rajan
-Sarkar Raj,2008,Ravi Kale,Chandar
-Sarkar Raj,2008,Govind Namdeo,Hassan Qazi
-Sarkar Raj,2008,Victor Banerjee,Mike Rajan
-Sarkar Raj,2008,Dilip Prabhawalkar,Rao Saab
-Sarkar Raj,2008,Supriya Pathak,Pushpa
-Sarkar Raj,2008,Tanishaa Mukerji,Avantika
-Sarkar Raj,2008,Upendra Limaye,Kantilal Vora
-Thoda Pyaar Thoda Magic,2008,Saif Ali Khan,Ranbeer Talwar
-Thoda Pyaar Thoda Magic,2008,Rani Mukerji,Geeta
-Thoda Pyaar Thoda Magic,2008,Rishi Kapoor,God
-Thoda Pyaar Thoda Magic,2008,Akshat Chopra,Vashisht Walia
-Thoda Pyaar Thoda Magic,2008,Shriya Sharma,Aditi Walia
-Thoda Pyaar Thoda Magic,2008,Rachit Sidana,Iqbal Walia
-Thoda Pyaar Thoda Magic,2008,Ayushi Burman,Avantika Walia
-Thoda Pyaar Thoda Magic,2008,Ameesha Patel,Malaika
-Thoda Pyaar Thoda Magic,2008,Sharat Saxena,Judge Jaswant Rai
-Thoda Pyaar Thoda Magic,2008,Mahesh Thakur,Lawyer
+Ghajini,2008,Aamir Khan,Sanjay Singhania / Sachin
+Ghajini,2008,Asin,Kalpana Shetty
+Ghajini,2008,Jiah Khan,Sunita
+Ghajini,2008,Aamir Naik,Singer
+Ghajini,2008,Pradeep Singh Rawat,Ghajini Dharmatma
+Ghajini,2008,Tinnu Anand,Satveer Kohli
+Ghajini,2008,Riyaz Khan,Inspector Arjun Yadav
+Ghajini,2008,Kamal Adib,Sanjay's Manager
+Ghajini,2008,Asif Ahmed,
+Ghajini,2008,John Cardiel,
+Rab Ne Bana Di Jodi,2008,Shah Rukh Khan,Surinder 'Suri' Sahni / Raj Kapoor
+Rab Ne Bana Di Jodi,2008,Anushka Sharma,Taani Sahni
+Rab Ne Bana Di Jodi,2008,Vinay Pathak,Balwinder 'Bobby' Khosla
+Rab Ne Bana Di Jodi,2008,M.K. Raina,Taani's father
+Rab Ne Bana Di Jodi,2008,Manmeet Singh Sawhney,Raju mechanic
+Rab Ne Bana Di Jodi,2008,Kajol,Special appearances in the song 'Phir Milenge Chalte Chalte'
+Rab Ne Bana Di Jodi,2008,Rani Mukerji,Special appearances in the song 'Phir Milenge Chalte Chalte'
+Rab Ne Bana Di Jodi,2008,Preity G Zinta,Special appearances in the song 'Phir Milenge Chalte Chalte'
+Rab Ne Bana Di Jodi,2008,Bipasha Basu,Special appearances in the song 'Phir Milenge Chalte Chalte'
+Rab Ne Bana Di Jodi,2008,Lara Dutta,Special appearances in the song 'Phir Milenge Chalte Chalte'
+Singh is Kinng,2008,Akshay Kumar,Happy Singh
+Singh is Kinng,2008,Katrina Kaif,Sonia
+Singh is Kinng,2008,Om Puri,Rangeela
+Singh is Kinng,2008,Kirron Kher,Rose Lady
+Singh is Kinng,2008,Ranvir Shorey,Puneet
+Singh is Kinng,2008,Jaaved Jaaferi,Mika Singh / Mr. Sabarwal
+Singh is Kinng,2008,Neha Dhupia,Julie
+Singh is Kinng,2008,Sonu Sood,Lakhanpal 'Lucky' Singh
+Singh is Kinng,2008,Yashpal Sharma,Pankaj Udhas
+Singh is Kinng,2008,Manoj Pahwa,Dilbagh Singh
+Jodhaa Akbar,2008,Hrithik Roshan,Jalaluddin Mohammad Akbar
+Jodhaa Akbar,2008,Aishwarya Rai Bachchan,Jodhaa Bai
+Jodhaa Akbar,2008,Sonu Sood,Sujamal
+Jodhaa Akbar,2008,Poonam Sinha,Mallika Hamida Banu
+Jodhaa Akbar,2008,Suhasini Mulay,Rani Padmavati
+Jodhaa Akbar,2008,Ila Arun,Maham Anga
+Jodhaa Akbar,2008,Raza Murad,Shamsuddin Atka Khan
+Jodhaa Akbar,2008,Kulbhushan Kharbanda,Raja Veer Bharmal
+Jodhaa Akbar,2008,Surendra Pal,Rana Uday Singh
+Jodhaa Akbar,2008,Rajesh Vivek,Chughtai Khan
+Race,2008,John Hannah,Self - Narrator
+Race,2008,Jenna Lambra-Stokes,Jen
+Race,2008,Robert Lambra-Stokes,Rob
+Race,2008,Alex,Alex
+Race,2008,Jinda,Jinda
+Race,2008,Shameema,Shameema
+Race,2008,Natalie,Natalie
+Race,2008,Felix,Felix
+Race,2008,Tony,Tony
+Race,2008,Darron,Darron
 3 Idiots,2009,Aamir Khan,Rancho
 3 Idiots,2009,Madhavan,Farhan
 3 Idiots,2009,Sharman Joshi,Raju
@@ -159,6 +259,16 @@ Thoda Pyaar Thoda Magic,2008,Mahesh Thakur,Lawyer
 3 Idiots,2009,Jaaved Jaaferi,Ranchoddas Chanchad
 3 Idiots,2009,Parikshit Sahni,Farhan's Father
 3 Idiots,2009,Olivier Lafont,Suhas
+Love Aaj Kal,2009,Saif Ali Khan,Jai Vardhan Singh / Veer Singh
+Love Aaj Kal,2009,Deepika Padukone,Meera Pandit
+Love Aaj Kal,2009,Rishi Kapoor,Veer Singh
+Love Aaj Kal,2009,Rahul Khanna,Vikram Joshi
+Love Aaj Kal,2009,Florence Brudenell-Bruce,Jo
+Love Aaj Kal,2009,Giselli Monteiro,Harleen Kaur
+Love Aaj Kal,2009,Dolly Ahluwalia,Indian Cast
+Love Aaj Kal,2009,Raj Zutshi,Harleen's Father
+Love Aaj Kal,2009,Nirupama Verma,Indian Cast
+Love Aaj Kal,2009,Gunjas Singh,Indian Cast
 Ajab Prem Ki Ghazab Kahani,2009,Ranbir Kapoor,Premshankar 'Prem' S. Sharma
 Ajab Prem Ki Ghazab Kahani,2009,Katrina Kaif,Jenny Pinto
 Ajab Prem Ki Ghazab Kahani,2009,Darshan Jariwala,Shivshankar Sharma
@@ -179,6 +289,26 @@ Wanted,2009,Inder Kumar,Ajay
 Wanted,2009,Mahek Chahal,Shaina
 Wanted,2009,Manoj Pahwa,Sonu Gates
 Wanted,2009,Asseem Merchant,Golden Bhai
+Kambakkht Ishq,2009,Akshay Kumar,Viraj Shergill
+Kambakkht Ishq,2009,Kareena Kapoor,Simrita 'Sim' Rai
+Kambakkht Ishq,2009,Aftab Shivdasani,Lucky Doshi
+Kambakkht Ishq,2009,Amrita Arora,Kamini Sandhu Doshi
+Kambakkht Ishq,2009,Jaaved Jaaferi,Keswani
+Kambakkht Ishq,2009,Kirron Kher,Dolly
+Kambakkht Ishq,2009,Vindu Dara Singh,Tiger
+Kambakkht Ishq,2009,Rajesh Khera,Dr. Ali
+Kambakkht Ishq,2009,Kahkashan Patel,Nimrita 'NIm' Rai
+Kambakkht Ishq,2009,Ashwin Mushran,Parmeet
+Dabangg,2010,Salman Khan,Inspector Chulbul Pandey
+Dabangg,2010,Sonakshi Sinha,Rajjo
+Dabangg,2010,Sonu Sood,Chedi Singh
+Dabangg,2010,Arbaaz Khan,Makhanchan 'Makkhi' Prajapati Pandey
+Dabangg,2010,Vinod Khanna,Prajapati Pandey
+Dabangg,2010,Dimple Kapadia,Naini P. Pandey
+Dabangg,2010,Om Puri,Inspector Kasturilal Vishkarma
+Dabangg,2010,Anupam Kher,Dayal Babu
+Dabangg,2010,Mahie Gill,Nirmala
+Dabangg,2010,Tinnu Anand,Ghatyal Master
 My Name is Khan,2010,Shah Rukh Khan,Rizvan Khan
 My Name is Khan,2010,Kajol,Mandira Khan
 My Name is Khan,2010,Katie Amanda Keane,Sarah Garrick
@@ -189,26 +319,56 @@ My Name is Khan,2010,Jimmy Shergill,Zakir Khan
 My Name is Khan,2010,Sonya Jehan,Hasina Khan
 My Name is Khan,2010,Parvin Dabas,Bobby Ahuja
 My Name is Khan,2010,Arjun Mathur,Raj Burman
-Tees Maar Khan,2010,Akshay Kumar,Tabrez Mirza 'Tees Maar' Khan
-Tees Maar Khan,2010,Katrina Kaif,Anya Khan
-Tees Maar Khan,2010,Akshaye Khanna,Aatish Kapoor
-Tees Maar Khan,2010,Rajiv Laxman,Johri Brothers
-Tees Maar Khan,2010,Raghu Ram,Johri Brothers
-Tees Maar Khan,2010,Ali Asgar,Burger
-Tees Maar Khan,2010,Dharampal Thakur,Dollar
-Tees Maar Khan,2010,Vijay Maurya,Soda
-Tees Maar Khan,2010,Apara Mehta,Tabrez's Mother
-Tees Maar Khan,2010,Sachin Khedekar,Commissioner Khadak Singh
-Once Upon a Time in Mumbaai,2010,Ajay Devgn,Sultan Mirza
-Once Upon a Time in Mumbaai,2010,Emraan Hashmi,Shoaib Khan
-Once Upon a Time in Mumbaai,2010,Kangana Ranaut,Rehana
-Once Upon a Time in Mumbaai,2010,Prachi Desai,Mumtaz
-Once Upon a Time in Mumbaai,2010,Randeep Hooda,ACP Agnel Wilson
-Once Upon a Time in Mumbaai,2010,Naved Aslam,Patrick
-Once Upon a Time in Mumbaai,2010,Sanjeev Wilson,Chandru
-Once Upon a Time in Mumbaai,2010,Allauddin Khan,Alaudin
-Once Upon a Time in Mumbaai,2010,Rajeev Yadav,Yakub Atha
-Once Upon a Time in Mumbaai,2010,Sushil Pandey,Iqbal
+Golmaal 3,2010,Mithun Chakraborty,Pritam 'Pappu'
+Golmaal 3,2010,Ajay Devgn,Gopal 'Gopu'
+Golmaal 3,2010,Kareena Kapoor,Daboo
+Golmaal 3,2010,Tusshar Kapoor,Lucky
+Golmaal 3,2010,Arshad Warsi,Madhav
+Golmaal 3,2010,Shreyas Talpade,Laxman
+Golmaal 3,2010,Kunal Kemmu,Laxman
+Golmaal 3,2010,Ratna Pathak Shah,Geeta 'Guddi' P. Chopra
+Golmaal 3,2010,Johny Lever,Puppy Bhai
+Golmaal 3,2010,Sanjay Mishra,Daaga
+Raajneeti,2010,Ajay Devgn,Sooraj Kumar
+Raajneeti,2010,Ranbir Kapoor,Samar Pratap
+Raajneeti,2010,Nana Patekar,Brij Gopal
+Raajneeti,2010,Katrina Kaif,Indu R. Sakseria / Indu P. Pratap
+Raajneeti,2010,Arjun Rampal,Prithviraj 'Prithvi' C. Pratap
+Raajneeti,2010,Manoj Bajpayee,Veerendra 'Veeru' B. Pratap
+Raajneeti,2010,Naseeruddin Shah,Bhaskar Sanyal
+Raajneeti,2010,Sarah Thompson,Sarah Jean Collins
+Raajneeti,2010,Nikhila Trikha,Bharati R. Rai / Bharati C. Pratap
+Raajneeti,2010,Darshan Jariwala,Ramnath Rai
+Housefull,2010,Akshay Kumar,
+Housefull,2010,Abhishek Bachchan,
+Housefull,2010,Riteish Deshmukh,
+Housefull,2010,Jacqueline Fernandez,
+Housefull,2010,Sonam Bajwa,
+Housefull,2010,Nargis Fakhri,
+Housefull,2010,Sanjay Dutt,
+Housefull,2010,Jackie Shroff,Abhishek Bachchan's Father
+Housefull,2010,Nana Patekar,
+Housefull,2010,Chitrangda Singh,
+Bodyguard,2011,Salman Khan,Lovely B. Singh
+Bodyguard,2011,Kareena Kapoor,Divya S. Rana
+Bodyguard,2011,Raj Babbar,Sartaj Rana
+Bodyguard,2011,Hazel Keech,Maya
+Bodyguard,2011,Mohammad Faizan,Sartaj L. Singh
+Bodyguard,2011,Aditya Pancholi,Vikrant Mhatre
+Bodyguard,2011,Mahesh Manjrekar,Ranjan Mhatre
+Bodyguard,2011,Chetan Hansraj,Mhatre
+Bodyguard,2011,Rajat Rawail,Tsunami Singh
+Bodyguard,2011,Reema Debnath,Savitha
+Ra.One,2011,Shah Rukh Khan,Shekhar Subramanium / G.One
+Ra.One,2011,Kareena Kapoor,Sonia S. Subramanium
+Ra.One,2011,Arjun Rampal,Ra.One
+Ra.One,2011,Armaan Verma,Prateek
+Ra.One,2011,Shahana Goswami,Jenny Nayar
+Ra.One,2011,Tom Wu,Akaashi
+Ra.One,2011,Dalip Tahil,Barron
+Ra.One,2011,Satish Shah,Iyer
+Ra.One,2011,Suresh Menon,Taxi driver
+Ra.One,2011,Priyanka Chopra Jonas,The Desi Girl
 Don 2,2011,Shah Rukh Khan,Don
 Don 2,2011,Priyanka Chopra Jonas,Roma
 Don 2,2011,Boman Irani,Vardhaan
@@ -219,6 +379,16 @@ Don 2,2011,Nawab Shah,Jabar
 Don 2,2011,Alyy Khan,J.K. Diwan
 Don 2,2011,Sahil Shroff,Arjun
 Don 2,2011,Florian Lukas,Det. Jens Berkel
+Ready,2011,Salman Khan,Prem R. Kapoor
+Ready,2011,Asin,Pooja Malhotra / Sanjana Singh
+Ready,2011,Paresh Rawal,Balidaan 'Baali' Bhardwaj
+Ready,2011,Mahesh Manjrekar,Ram Kapoor
+Ready,2011,Anuradha Patel,Mrs. Ram Kapoor
+Ready,2011,Manoj Pahwa,Prem's Uncle
+Ready,2011,Manoj Joshi,Prem's Uncle
+Ready,2011,Puneet Issar,Dada Chaudhary
+Ready,2011,Sharat Saxena,Suraj Chowdhari
+Ready,2011,Akhilendra Mishra,Amar Chowdhari
 Zindagi Na Milegi Dobara,2011,Hrithik Roshan,Arjun Saluja
 Zindagi Na Milegi Dobara,2011,Farhan Akhtar,Imraan Qureshi
 Zindagi Na Milegi Dobara,2011,Abhay Deol,Kabir Dewan
@@ -229,16 +399,6 @@ Zindagi Na Milegi Dobara,2011,Naseeruddin Shah,Salman Habib
 Zindagi Na Milegi Dobara,2011,Deepti Naval,Raahila Qureshi
 Zindagi Na Milegi Dobara,2011,Supreet Bedi,Sameera
 Zindagi Na Milegi Dobara,2011,Anisa Butt,Zoya
-Rockstar,2011,Ranbir Kapoor,Janardan Jakhar
-Rockstar,2011,Nargis Fakhri,Heer Kaul
-Rockstar,2011,Shammi Kapoor,Ustad Jameel Khan
-Rockstar,2011,Kumud Mishra,Khatana
-Rockstar,2011,Piyush Mishra,Dhingra
-Rockstar,2011,Shernaz Patel,Neena Kaul
-Rockstar,2011,Aditi Rao Hydari,Sheena
-Rockstar,2011,Sanjana Sanghi,Mandy
-Rockstar,2011,Shikha Jain,Meena
-Rockstar,2011,Jaideep Ahlawat,Jordan's brother
 Ek Tha Tiger,2012,Salman Khan,Tiger
 Ek Tha Tiger,2012,Katrina Kaif,Zoya
 Ek Tha Tiger,2012,Girish Karnad,Shenoy
@@ -249,23 +409,593 @@ Ek Tha Tiger,2012,Rajendra Sethi,Bagga
 Ek Tha Tiger,2012,Avinash Badal,Abrar's Assistant
 Ek Tha Tiger,2012,Bhupesh Singh,RAW Official #1
 Ek Tha Tiger,2012,Sanjay Gurbaxani,RAW Official #2
+Dabangg 2,2012,Salman Khan,Chulbul Pandey
+Dabangg 2,2012,Sonakshi Sinha,Rajjo Pandey
+Dabangg 2,2012,Prakash Raj,Thakur Bachchalal Singh
+Dabangg 2,2012,Vinod Khanna,Prajapati Pandey
+Dabangg 2,2012,Arbaaz Khan,Makhanchand 'Makkhi' Prajapati Pandey
+Dabangg 2,2012,Deepak Dobriyal,Genda
+Dabangg 2,2012,Nikitin Dheer,Chunni
+Dabangg 2,2012,Mahie Gill,Nirmala Pandey
+Dabangg 2,2012,Kareena Kapoor,Dancer
+Dabangg 2,2012,Sandeepa Dhar,Anjali
 Jab Tak Hai Jaan,2012,Shah Rukh Khan,Samar Anand
-Jab Tak Hai Jaan,2012,Katrina Kaif,Meera Thapar
 Jab Tak Hai Jaan,2012,Lucy Phelps,Lynne
-Jab Tak Hai Jaan,2012,Anupam Kher,Meera's father
+Jab Tak Hai Jaan,2012,Katrina Kaif,Meera Thapar
 Jab Tak Hai Jaan,2012,Anushka Sharma,Akira Rai
+Jab Tak Hai Jaan,2012,Anupam Kher,Meera's father
+Jab Tak Hai Jaan,2012,Sharib Hashmi,Samar's Friend
 Jab Tak Hai Jaan,2012,Rishi Kapoor,Imran
+Jab Tak Hai Jaan,2012,Susan Fordham,Party Guest
 Jab Tak Hai Jaan,2012,Andrew Bicknell,Frank
 Jab Tak Hai Jaan,2012,Julia St John,Catherine
-Jab Tak Hai Jaan,2012,Sharib Hashmi,Samar's Friend
-Jab Tak Hai Jaan,2012,Susan Fordham,Party Guest
-Bol Bachchan,2012,Ajay Devgn,Prithviraj Raghuvanshi
-Bol Bachchan,2012,Amitabh Bachchan,Bachchan
-Bol Bachchan,2012,Abhishek Bachchan,Abbas Ali / Abhishek Bachchan
-Bol Bachchan,2012,Asin Thottumkal,Sania Ali / Apeksha
-Bol Bachchan,2012,Govardhan Asrani,Shastri
-Bol Bachchan,2012,Neeraj Vora,Maakhan
-Bol Bachchan,2012,Prachi Desai,Radhika Raghuvanshi
-Bol Bachchan,2012,Krushna Abhishek,Ravi Shastri
-Bol Bachchan,2012,Archana Puran Singh,Zohra / Madhumati
-Bol Bachchan,2012,Jeetu Verma,Vikrant Raghuvanshi
+Rowdy Rathore,2012,Akshay Kumar,Shiva / ASP Vikram Rathore IPS
+Rowdy Rathore,2012,Sonakshi Sinha,Paro
+Rowdy Rathore,2012,Nassar,Baapji
+Rowdy Rathore,2012,Yashpal Sharma,Inspector Vishal Sharma
+Rowdy Rathore,2012,Paresh Ganatra,2G
+Rowdy Rathore,2012,Gurdeep Kohli,Inspector Razia Khan
+Rowdy Rathore,2012,Mushtaq Khan,Baapji's brother-in-law
+Rowdy Rathore,2012,Amit Tiwari,Munna
+Rowdy Rathore,2012,Supreeth Reddy,Titla
+Rowdy Rathore,2012,Ashok Samarth,Babu
+Agneepath,2012,Hrithik Roshan,Vijay Deenanath Chauhan
+Agneepath,2012,Priyanka Chopra Jonas,Kaali
+Agneepath,2012,Sanjay Dutt,Kancha Cheena
+Agneepath,2012,Rishi Kapoor,Rauf Lala
+Agneepath,2012,Madhurjeet Sarghi,Lachhi
+Agneepath,2012,Rajesh Tandon,Mazhar Lala
+Agneepath,2012,Kanika Tiwari,Shiksha Chauhan
+Agneepath,2012,Om Puri,Gaitonde
+Agneepath,2012,Zarina Wahab,Suhasini Chauhan
+Agneepath,2012,Katrina Kaif,Chikni Chameli
+Dhoom 3,2013,Aamir Khan,Sahir Khan / Samar Khan
+Dhoom 3,2013,Abhishek Bachchan,A.C.P. Jai Dixit
+Dhoom 3,2013,Katrina Kaif,Aaliya
+Dhoom 3,2013,Uday Chopra,Ali Khan
+Dhoom 3,2013,Jackie Shroff,Iqbal Khan
+Dhoom 3,2013,Tabrett Bethell,Victoria
+Dhoom 3,2013,Andrew Bicknell,Anderson
+Dhoom 3,2013,Siddharth Nigam,Young Sahir
+Dhoom 3,2013,Charles Rasmussen,Executive Banker
+Dhoom 3,2013,Gavin Marshall,Banker
+Chennai Express,2013,Deepika Padukone,Meenalochni 'Meenamma' Azhagusundaram
+Chennai Express,2013,Shah Rukh Khan,Rahul Mithaiwala
+Chennai Express,2013,Nikitin Dheer,Tangaballi
+Chennai Express,2013,Sathyaraj,Durgeshwara 'Durgesh' Azhagusundaram
+Chennai Express,2013,Mukesh Tiwari,Inspector Shamsher Singh
+Chennai Express,2013,Lekh Tandon,Bhishambhar Mithaiwala
+Chennai Express,2013,Kamini Kaushal,Neetu Bhishambhar Mithaiwala
+Chennai Express,2013,Puvisha Manoharan,Radhika 'Radha' Azhagusundaram
+Chennai Express,2013,Manu Malik,Baman
+Chennai Express,2013,Rakesh Kukreti,Bobby
+Yeh Jawaani Hai Deewani,2013,Ranbir Kapoor,Kabir Thapar
+Yeh Jawaani Hai Deewani,2013,Deepika Padukone,Naina Talwar
+Yeh Jawaani Hai Deewani,2013,Aditya Roy Kapoor,Avinash
+Yeh Jawaani Hai Deewani,2013,Kalki Koechlin,Aditi
+Yeh Jawaani Hai Deewani,2013,Kunaal Roy Kapur,Taran
+Yeh Jawaani Hai Deewani,2013,Madhuri Dixit,Mohini
+Yeh Jawaani Hai Deewani,2013,Farooq Shaikh,Bunny's father
+Yeh Jawaani Hai Deewani,2013,Aanoushka,Rashmi
+Yeh Jawaani Hai Deewani,2013,Kamal Adib,Aditi's father
+Yeh Jawaani Hai Deewani,2013,Dolly Ahluwalia,Naina's mother
+Krrish 3,2013,Hrithik Roshan,Krishna Mehra / Krrish / Rohit Mehra
+Krrish 3,2013,Vivek Oberoi,Kaal
+Krrish 3,2013,Priyanka Chopra Jonas,Priya Mehra
+Krrish 3,2013,Kangana Ranaut,Kaya
+Krrish 3,2013,Arif Zakaria,Dr. Varun Shetty
+Krrish 3,2013,Raju Kher,Dr. Alok Sen
+Krrish 3,2013,Rajpal Naurang Yadav,Kripal Sharma
+Krrish 3,2013,Rakhee Tandon,Mrs. Sharma
+Krrish 3,2013,Gowhar Khan,Frog Man
+Krrish 3,2013,Nazia Shaikh,Cheetah Woman
+Goliyon Ki Raasleela Ram - Leela,2013,Ranveer Singh,Ram
+Goliyon Ki Raasleela Ram - Leela,2013,Deepika Padukone,Leela
+Goliyon Ki Raasleela Ram - Leela,2013,Supriya Pathak,Dhankor Baa
+Goliyon Ki Raasleela Ram - Leela,2013,Sharad Kelkar,Kanji Bhai
+Goliyon Ki Raasleela Ram - Leela,2013,Homi Wadia,Radhu Bhai
+Goliyon Ki Raasleela Ram - Leela,2013,Abhimanyu Singh,Meghji Bhai
+Goliyon Ki Raasleela Ram - Leela,2013,Richa Chadha,Rasila
+Goliyon Ki Raasleela Ram - Leela,2013,Gulshan Devaiah,Bhavani
+Goliyon Ki Raasleela Ram - Leela,2013,Jameel Khan,Vanka
+Goliyon Ki Raasleela Ram - Leela,2013,Barkha Bisht,Kesar
+PK,2014,Aamir Khan,PK
+PK,2014,Anushka Sharma,Jagat Janani Sahni (Jaggu)
+PK,2014,Sanjay Dutt,Bhairon Singh
+PK,2014,Boman Irani,Cherry Bajwa
+PK,2014,Saurabh Shukla,Tapasvi Maharaj
+PK,2014,Sushant Singh Rajput,Sarfaraz Yusuf
+PK,2014,Parikshit Sahni,Jaggu's Father
+PK,2014,Amardeep Jha,Jaggu's Mother
+PK,2014,Plabita Borthakur,Shalini
+PK,2014,Maanvi Gagroo,Mitu
+Kick,2014,Saurabh Dhingra,Nitin Bhagwat
+Kick,2014,Salman Khan,Devi Lal Singh / Devil
+Kick,2014,Jacqueline Fernandez,Shaina Mehra
+Kick,2014,Nawazuddin Siddiqui,Shiv Gajra
+Kick,2014,Randeep Hooda,Himanshu Tyagi
+Kick,2014,Mithun Chakraborty,Devi Lal's Father
+Kick,2014,Archana Puran Singh,Devi Lal's Mother
+Kick,2014,Sumona Chakravarti,Vidhi
+Kick,2014,Gautam Singh Rajput,CBI Officer
+Kick,2014,Sanjay Mishra,Ram Avtaar Rathi
+Happy New Year,2014,Shah Rukh Khan,Chandramohan 'Charlie' Sharma
+Happy New Year,2014,Deepika Padukone,Mohini Joshi
+Happy New Year,2014,Abhishek Bachchan,Nandu Bhide / Vicky Grover
+Happy New Year,2014,Boman Irani,Temhton 'Tammy' Irani
+Happy New Year,2014,Sonu Sood,Captain Jagmohan 'Jag' Prakash Singh
+Happy New Year,2014,Vivaan Shah,Rohan Singh
+Happy New Year,2014,Jackie Shroff,Charan Grover
+Happy New Year,2014,Anupam Kher,Manohar Sharma
+Happy New Year,2014,Mohan Kapur,Mr. Kapoor
+Happy New Year,2014,Varun Pruthi,Sartaj Gill
+Bang Bang,2014,Hrithik Roshan,Rajveer Nanda / Jai
+Bang Bang,2014,Katrina Kaif,Harleen Sahani
+Bang Bang,2014,Pawan Malhotra,Zorawar Kalwa
+Bang Bang,2014,Danny Denzongpa,Omar Zafar
+Bang Bang,2014,Jaaved Jaaferi,Hamid Gul
+Bang Bang,2014,Jimmy Shergill,Colonel Viren Nanda- Guest Appearance
+Bang Bang,2014,Vikram Gokhale,ISS Chief Narayanan
+Bang Bang,2014,Kanwaljeet Singh,Pankaj Nanda
+Bang Bang,2014,Deepti Naval,Shikha Nanda
+Bang Bang,2014,Kamlesh Gill,"Dadi, Harleen's grandmother"
+Singham Returns,2014,Ajay Devgn,DCP Bajirao M. Singham
+Singham Returns,2014,Kareena Kapoor,Avni Kamat
+Singham Returns,2014,Amole Gupte,Satyaraj Chander a.k.a 'Babaji'
+Singham Returns,2014,Anupam Kher,Gurukant Acharya a.k.a 'Guruji'
+Singham Returns,2014,Dayanand Shetty,Senior Inspector Daya Singh
+Singham Returns,2014,Sharat Saxena,Commissioner Shiv Rathod
+Singham Returns,2014,Vineet Sharma,Inspector Dev Phadnis
+Singham Returns,2014,Mahesh Manjrekar,CM Vikram Adhikari
+Singham Returns,2014,Sonalee Kulkarni,Meneka Reddy
+Singham Returns,2014,Zakir Hussain,Minister Prakash Rao
+Bajrangi Bhaijaan,2015,Salman Khan,Pawan Kumar Chaturvedi / Bajrangi Bhaijaan
+Bajrangi Bhaijaan,2015,Harshaali Malhotra,Shahida / Munni
+Bajrangi Bhaijaan,2015,Nawazuddin Siddiqui,Chand Nawab
+Bajrangi Bhaijaan,2015,Kareena Kapoor,Rasika
+Bajrangi Bhaijaan,2015,Sharat Saxena,Dayanand
+Bajrangi Bhaijaan,2015,Alka Badola Kaushal,Saraswati
+Bajrangi Bhaijaan,2015,Om Puri,Maulana Sahab
+Bajrangi Bhaijaan,2015,Meher Vij,Shahida's Mother Razia
+Bajrangi Bhaijaan,2015,Rajesh Sharma,Senior Pakistani Police officer / Hamid Khan
+Bajrangi Bhaijaan,2015,Mir Sarwar,Shahida's Father Rauf
+Dilwale,2015,Shah Rukh Khan,Raj / Kaali
+Dilwale,2015,Kajol,Meera Malik
+Dilwale,2015,Varun Dhawan,Veer
+Dilwale,2015,Kriti Sanon,Ishita Malik
+Dilwale,2015,Varun Sharma,Sidhu
+Dilwale,2015,Boman Irani,King
+Dilwale,2015,Johny Lever,Money Bhai
+Dilwale,2015,Mukesh Tiwari,Shakti
+Dilwale,2015,Pankaj Tripathi,Anwar
+Dilwale,2015,Sanjay Mishra,Oscar Bhai
+Prem Ratan Dhan Payo,2015,Salman Khan,Prem Dilwale / Yuvraj Vijay Singh
+Prem Ratan Dhan Payo,2015,Sonam Kapoor,Maithili
+Prem Ratan Dhan Payo,2015,Neil Nitin Mukesh,Yuvraj Ajay Singh
+Prem Ratan Dhan Payo,2015,Deepak Dobriyal,Kanhaiya
+Prem Ratan Dhan Payo,2015,Arman Kohli,Chirag Singh
+Prem Ratan Dhan Payo,2015,Swara Bhasker,Chandrika
+Prem Ratan Dhan Payo,2015,Aashika Bhatia,Radhika
+Prem Ratan Dhan Payo,2015,Deepraj Rana,Sanjay
+Prem Ratan Dhan Payo,2015,Manoj Joshi,Bhandari
+Prem Ratan Dhan Payo,2015,Sanjay Mishra,Chaubey Ji
+Bajirao Mastani,2015,Ranveer Singh,Peshwa Bajirao Ballal
+Bajirao Mastani,2015,Deepika Padukone,Mastani
+Bajirao Mastani,2015,Priyanka Chopra Jonas,Kashibai
+Bajirao Mastani,2015,Tanvi Azmi,Radha Maa
+Bajirao Mastani,2015,Mahesh Manjrekar,Chattrapati Shahu Maharaj
+Bajirao Mastani,2015,Raza Murad,Nizam of Deccan
+Bajirao Mastani,2015,Aditya Pancholi,Panth Pratinidhi
+Bajirao Mastani,2015,Milind Soman,Ambaji Panth
+Bajirao Mastani,2015,Vaibhav Tatwawadi,Chimaji
+Bajirao Mastani,2015,Yatin Karyekar,Krishnaji Bhatt
+Tanu Weds Manu Returns,2015,Kangana Ranaut,Tanuja 'Tanu' Trivedi / Kusum 'Datto' Kumari
+Tanu Weds Manu Returns,2015,Madhavan,Manoj 'Manu' Sharma
+Tanu Weds Manu Returns,2015,Gunnit Kaur,Komal
+Tanu Weds Manu Returns,2015,Jimmy Shergill,Raja Awasthi
+Tanu Weds Manu Returns,2015,Deepak Dobriyal,Pappi
+Tanu Weds Manu Returns,2015,Swara Bhasker,Payal
+Tanu Weds Manu Returns,2015,Eijaz Khan,Jaspreet Singh Jassi
+Tanu Weds Manu Returns,2015,Mohd. Zeeshan Ayyub,Chintu
+Tanu Weds Manu Returns,2015,Rajendra Gupta,Rajendra Trivedi
+Tanu Weds Manu Returns,2015,Navni Parihar,Tanu's Mother
+Dangal,2016,Aamir Khan,Mahavir Singh Phogat
+Dangal,2016,Fatima Sana Shaikh,Geeta Phogat
+Dangal,2016,Sanya Malhotra,Babita Kumari
+Dangal,2016,Sakshi Tanwar,Daya Kaur
+Dangal,2016,Aparshakti Khurana,Omkar
+Dangal,2016,Zaira Wasim,Young Geeta
+Dangal,2016,Suhani Bhatnagar,Young Babita
+Dangal,2016,Ritvik Sahore,Young Omkar
+Dangal,2016,Girish Kulkarni,Coach Pramod Kadam
+Dangal,2016,Ravi Aneja,Referee
+Sultan,2016,Salman Khan,Sultan Ali Khan
+Sultan,2016,Anushka Sharma,Aarfa
+Sultan,2016,Randeep Hooda,Fateh Singh
+Sultan,2016,Amit Sadh,Aakash Oberoi
+Sultan,2016,Kumud Mishra,Barkat
+Sultan,2016,Marrese Crump,Marrese
+Sultan,2016,Parikshit Sahni,Gyan Singh Oberoi
+Sultan,2016,Tyron Woodley,Tyron
+Sultan,2016,Ron Smoorenburg,Ron
+Sultan,2016,Brahim Chab,Brahim
+Ae Dil Hai Mushkil,2016,Ranbir Kapoor,Ayan Sanger
+Ae Dil Hai Mushkil,2016,Aishwarya Rai Bachchan,Saba
+Ae Dil Hai Mushkil,2016,Anushka Sharma,Alizeh
+Ae Dil Hai Mushkil,2016,Fawad Khan,Ali
+Ae Dil Hai Mushkil,2016,Lisa Haydon,Lisa D'Souza
+Ae Dil Hai Mushkil,2016,Imran Abbas,Dr. Faisal
+Ae Dil Hai Mushkil,2016,Pooja Mehta,Bollywood Dance Class Teacher
+Ae Dil Hai Mushkil,2016,Cru Fox,Ayan's Main Bandmembers - Lead Guitarist
+Ae Dil Hai Mushkil,2016,Jamil Ahmed,Drummer
+Ae Dil Hai Mushkil,2016,Phyl Cashman,Bass Guitarist
+Rustom,2016,Akshay Kumar,Rustom Pavri
+Rustom,2016,Ileana D'Cruz,Cynthia Pavri
+Rustom,2016,Arjan Bajwa,Vikram Makhija
+Rustom,2016,Esha Gupta,Preety Makhija
+Rustom,2016,Pawan Malhotra,Senior Inspector Vincent Lobo
+Rustom,2016,Sachin Khedekar,Public Prosecutor Lakshman Khangani
+Rustom,2016,Usha Nadkarni,Jamnabai
+Rustom,2016,Kumud Mishra,Erach Billimoria
+Rustom,2016,Anang Desai,Judge Patel
+Rustom,2016,Parmeet Sethi,Rear Admiral Prashant Kamath
+Airlift,2016,Akshay Kumar,Ranjit Katyal
+Airlift,2016,Nimrat Kaur,Amrita Katyal
+Airlift,2016,Kumud Mishra,Sanjeev Kohli
+Airlift,2016,Prakash Belawadi,George
+Airlift,2016,Inaamulhaq,Major Khalaf Bin Zayd
+Airlift,2016,Lenaa,George's Wife
+Airlift,2016,Nissar Khan,Ashok
+Airlift,2016,Ninad Kamat,Kurien
+Airlift,2016,Kaizaad Kotwal,Poonawalla
+Airlift,2016,Feryna Wazheir,Tasneem
+Tiger Zinda Hai,2017,Salman Khan,Tiger / Avinash Singh Rathore
+Tiger Zinda Hai,2017,Katrina Kaif,Zoya
+Tiger Zinda Hai,2017,Paresh Rawal,Theuban / Firdaus
+Tiger Zinda Hai,2017,Anupriya Goenka,Poorna
+Tiger Zinda Hai,2017,Kumud Mishra,Rakesh
+Tiger Zinda Hai,2017,Paresh Pahuja,Azaan Akbar
+Tiger Zinda Hai,2017,Ryan Sturz,White Sam
+Tiger Zinda Hai,2017,Kashmira Irani,Sana
+Tiger Zinda Hai,2017,Mukesh Khanna,Mann
+Tiger Zinda Hai,2017,Nawab Shah,Pawan
+Golmaal Again,2017,Ajay Devgn,Gopal
+Golmaal Again,2017,Arshad Warsi,Madhav
+Golmaal Again,2017,Tabu,Anna Mathew
+Golmaal Again,2017,Shreyas Talpade,Laxman
+Golmaal Again,2017,Tusshar Kapoor,Lucky
+Golmaal Again,2017,Kunal Kemmu,Laxman
+Golmaal Again,2017,Parineeti Chopra,Khushi
+Golmaal Again,2017,Neil Nitin Mukesh,Nikhil
+Golmaal Again,2017,Prakash Raj,Vasu Reddy
+Golmaal Again,2017,Johny Lever,Pappi Bhai
+Raees,2017,Shah Rukh Khan,Raees
+Raees,2017,Sunny Leone,Laila
+Raees,2017,Nawazuddin Siddiqui,IPS Majmudar
+Raees,2017,Jaideep Ahlawat,Nawab
+Raees,2017,Mahira Khan,Aasiya
+Raees,2017,Sheeba Chaddha,Raees's Mother
+Raees,2017,Mohd. Zeeshan Ayyub,Sadiq
+Raees,2017,Atul Kulkarni,Jairaj
+Raees,2017,Pawan Singh,Lallah
+Raees,2017,Anurag Arora,Damla
+Tubelight,2017,Salman Khan,Laxman
+Tubelight,2017,Sohail Khan,Bharat
+Tubelight,2017,Om Puri,Banne Chacha
+Tubelight,2017,Mohd. Zeeshan Ayyub,Narayan
+Tubelight,2017,Yashpal Sharma,Major Rajbir Tokas
+Tubelight,2017,Zhu Zhu,Liling
+Tubelight,2017,Matin Rey Tangu,Guo
+Tubelight,2017,Brijendra Kala,Shoe Shopkeeper
+Tubelight,2017,Isha Talwar,Maya
+Tubelight,2017,Jason D'Souza,Little Laxman
+Judwaa 2,2017,Varun Dhawan,Raja / Prem
+Judwaa 2,2017,Jacqueline Fernandez,Alishka
+Judwaa 2,2017,Taapsee Pannu,Samaara
+Judwaa 2,2017,Anupam Kher,Mr. Balraj Bakshi
+Judwaa 2,2017,Sachin Khedekar,Rajiv Malhotra
+Judwaa 2,2017,Pawan Malhotra,Inspector Kuldeep Dhillon
+Judwaa 2,2017,Prachee Shah,Ankita Malhotra
+Judwaa 2,2017,Upasana Singh,Samaara's Mom
+Judwaa 2,2017,Rajpal Naurang Yadav,Nandu
+Judwaa 2,2017,Vivan Bhatena,Alex
+Sanju,2018,Ranbir Kapoor,Sanjay Dutt 'Sanju'
+Sanju,2018,Paresh Rawal,Sunil Dutt
+Sanju,2018,Manisha Koirala,Nargis Dutt
+Sanju,2018,Vicky Kaushal,Kamlesh Kanhaiyalal Kapasi
+Sanju,2018,Dia Mirza,Manyata Dutt
+Sanju,2018,Anushka Sharma,Winnie Dias
+Sanju,2018,Sonam Kapoor,Ruby
+Sanju,2018,Jim Sarbh,Zubin Mistry
+Sanju,2018,Karishma Tanna,Pinky
+Sanju,2018,Boman Irani,Ruby's father & Dr. Asthana of Munna Bhai MBBS
+Padmaavat,2018,Deepika Padukone,Padmavati
+Padmaavat,2018,Ranveer Singh,Sultan Alauddin Khilji
+Padmaavat,2018,Shahid Kapoor,Maharawal Ratan Singh
+Padmaavat,2018,Aditi Rao Hydari,Mehrunissa
+Padmaavat,2018,Jim Sarbh,Malik Kafur
+Padmaavat,2018,Anupriya Goenka,Nagmati
+Padmaavat,2018,Raza Murad,Jalaluddin Khilji
+Padmaavat,2018,Ujjwal Chopra,Gora Singh
+Padmaavat,2018,Komal Chhabria,Jalaluddin's Wife
+Padmaavat,2018,Lankesh Bhardwaj,Tribhuvan Pal
+Simmba,2018,Ranveer Singh,Inspector Sangram Bhalerao a.k.a 'Simmba'
+Simmba,2018,Sara Ali Khan,Shagun Sathe
+Simmba,2018,Sonu Sood,Durva Yashwant Ranade
+Simmba,2018,Ashutosh Rana,Head-Constable Nityanand Mohile
+Simmba,2018,Siddharth Jadhav,Sub-Inspector Santosh Tawde
+Simmba,2018,Vaidehi Parshurami,Aakruti Dave
+Simmba,2018,Ulka Gupta,Nandini Mohile
+Simmba,2018,Suchitra Bandekar,Mrs. Mohile
+Simmba,2018,Sulabha Arya,Iyer Mausi
+Simmba,2018,Ashwini Kalsekar,Judge Smita Parulkar
+Race 3,2018,Anil Kapoor,Shamsher
+Race 3,2018,Salman Khan,Sikander
+Race 3,2018,Bobby Deol,Yash
+Race 3,2018,Jacqueline Fernandez,Jessica
+Race 3,2018,Daisy Shah,Sanjana
+Race 3,2018,Saqib Saleem,Suraj
+Race 3,2018,Freddy Daruwala,Rana
+Race 3,2018,Naushaad Abbas,Rana's Henchmen
+Race 3,2018,Najmeddin AlHadad,Mercenary
+Race 3,2018,Kabir Ali,
+Baaghi 2,2018,Jacqueline Fernandez,Mohini
+Baaghi 2,2018,Disha Patani,Neha
+Baaghi 2,2018,Riteish Deshmukh,
+Baaghi 2,2018,Tiger Shroff,Ranveer Pratap Singh
+Baaghi 2,2018,Manoj Bajpayee,DIG Ajay Shergill
+Baaghi 2,2018,Randeep Hooda,Loha Singh Dhull / LSD
+Baaghi 2,2018,Lakshmi Manchu,
+Baaghi 2,2018,Prateik Patil Babbar,Sunny Salgoankar
+Baaghi 2,2018,Deepak Dobriyal,Usman Langda
+Baaghi 2,2018,Kumar Saurabh,Chhotu
+War,2019,Hrithik Roshan,Major Kabir Dhaliwal
+War,2019,Tiger Shroff,Captain Khalid Rahmani
+War,2019,Vaani Kapoor,Naina Verma
+War,2019,Ashutosh Rana,Colonel Sunil Luthra
+War,2019,Anupriya Goenka,Aditi Nahta
+War,2019,Yash Raaj Singh,Saurabh
+War,2019,Mashhoor Amrohi,Firoze Contractor
+War,2019,Sanjeev Vatsa,Rizwan Iiyasi
+War,2019,Dipannita Sharma,Dr. Mallika Singhal
+War,2019,Soni Razdan,Khalid's mother
+Kabir Singh,2019,Shahid Kapoor,Kabir Rajdheer Singh
+Kabir Singh,2019,Kiara Advani,Preeti Sikka
+Kabir Singh,2019,Nikita Dutta,Jia Sharma
+Kabir Singh,2019,Soham Majumdar,Shiva
+Kabir Singh,2019,Arjan Bajwa,Karan Rajdheer Singh
+Kabir Singh,2019,Suresh Oberoi,Rajdheer Singh
+Kabir Singh,2019,Kamini Kaushal,Sadhna Kaur- Kabir's daadi
+Kabir Singh,2019,Adil Hussain,Dean Himanshu Joshi
+Kabir Singh,2019,Amit Sharma,Amit
+Kabir Singh,2019,Anurag Arora,Harpal Sikka
+Uri - The Surgical Strike,2019,Vicky Kaushal,Major Vihan Singh Shergill
+Uri - The Surgical Strike,2019,Paresh Rawal,Govind Bhardwaj
+Uri - The Surgical Strike,2019,Mohit Raina,Major Karan Kashyap
+Uri - The Surgical Strike,2019,Yami Gautam,Pallavi Sharma / Jasmine Almeida
+Uri - The Surgical Strike,2019,Kirti Kulhari,Seerat Kaur
+Uri - The Surgical Strike,2019,Rajit Kapoor,Prime Minister of India
+Uri - The Surgical Strike,2019,Ivan Rodrigues,Brian D'souza
+Uri - The Surgical Strike,2019,Manasi Parekh,Neha Kashyap
+Uri - The Surgical Strike,2019,Swaroop Sampat,Suhashini Shergill
+Uri - The Surgical Strike,2019,Riva Arora,Suhani Kashyap
+Bharat,2019,Salman Khan,Bharat
+Bharat,2019,Katrina Kaif,Kumud Raina
+Bharat,2019,Sunil Grover,Vilayti Khan
+Bharat,2019,Tabu,Meher
+Bharat,2019,Jackie Shroff,Gautam Kumar
+Bharat,2019,Sonali Kulkarni,Janki Devi
+Bharat,2019,Kashmira Irani,Mehek
+Bharat,2019,Aashif Sheikh,Devbhai
+Bharat,2019,Disha Patani,Radha
+Bharat,2019,Satish Kaushik,Naval Officer Jayram Shirodkar
+Good Newwz,2019,Akshay Kumar,Varun Batra
+Good Newwz,2019,Kareena Kapoor,Deepti Batra
+Good Newwz,2019,Diljit Dosanjh,Honey Batra
+Good Newwz,2019,Kiara Advani,Monika Batra
+Good Newwz,2019,Adil Hussain,Dr. Anand Joshi
+Good Newwz,2019,Tisca Chopra,Dr. Sandhya Joshi
+Good Newwz,2019,Anjana Sukhani,Richa
+Good Newwz,2019,Faisal Rashid,Richa's Husband
+Good Newwz,2019,Simran Suri,Receptionist
+Good Newwz,2019,Amishka Sood,IVF receptionist
+Tanhaji - The Unsung Warrior,2020,Ajay Devgn,Tanhaji Malusare
+Tanhaji - The Unsung Warrior,2020,Saif Ali Khan,Udaybhan Singh Rathod
+Tanhaji - The Unsung Warrior,2020,Sharad Kelkar,Chhatrapati Shivaji Maharaj
+Tanhaji - The Unsung Warrior,2020,Kajol,Savitribai Malusare
+Tanhaji - The Unsung Warrior,2020,Padmavati Rao,Rajmata Jijao Saheb
+Tanhaji - The Unsung Warrior,2020,Shashank Shende,Shelar Mama
+Tanhaji - The Unsung Warrior,2020,Neha Sharma,Kamla Devi
+Tanhaji - The Unsung Warrior,2020,Vipul Gupta,Jagat Singh
+Tanhaji - The Unsung Warrior,2020,Devdutta Nage,Suryaji Malusare
+Tanhaji - The Unsung Warrior,2020,Ajinkya Deo,Chandraji Pisal
+Baaghi 3,2020,Tiger Shroff,Ranveer 'Ronnie' Chaturvedi
+Baaghi 3,2020,Riteish Deshmukh,Vikram Charan Chaturvedi
+Baaghi 3,2020,Shraddha Kapoor,Siya Nandan
+Baaghi 3,2020,Ankita Lokhande,Ruchi Nandan
+Baaghi 3,2020,Jameel Khoury,Abu Jalal Gaza
+Baaghi 3,2020,Vijay Varma,Akhtar Lahori
+Baaghi 3,2020,Bhawani Singh Rathore,Police Officer
+Baaghi 3,2020,Jaideep Ahlawat,Inder Paheli Lamba a.k.a 'IPL'
+Baaghi 3,2020,Shifuji Shaurya Bharadwaj,Shyam Mishra a.k.a 'Chachaji'
+Baaghi 3,2020,Danish Bhatt,Bilaal
+Street Dancer 3D,2020,Varun Dhawan,Sahej
+Street Dancer 3D,2020,Shraddha Kapoor,Inayat
+Street Dancer 3D,2020,Prabhu Deva,Ram Prasad
+Street Dancer 3D,2020,Nora Fatehi,Mia
+Street Dancer 3D,2020,Aparshakti Khurana,Amrinder
+Street Dancer 3D,2020,Dharmesh Yelande,D
+Street Dancer 3D,2020,Salman Yusuff Khan,Zayn
+Street Dancer 3D,2020,Punit Pathak,Inder
+Street Dancer 3D,2020,Raghav Juyal,Poddy
+Street Dancer 3D,2020,Sushant Pujari,Sushi
+Malang,2020,Aditya Roy Kapoor,Advait
+Malang,2020,Anil Kapoor,Inspector Anjaney Agashe
+Malang,2020,Disha Patani,Sarah
+Malang,2020,Kunal Kemmu,Michael Rodrigues
+Malang,2020,Amruta Khanvilkar,Teresa Rodrigues
+Malang,2020,Kamal Adib,Father
+Malang,2020,Elli Avrram,Jesse
+Malang,2020,Baidya Biswajit,
+Malang,2020,Makrand Deshpande,Tony
+Malang,2020,Sanjeev Dhuri,Constable Borkar
+Shubh Mangal Zyada Saavdhan,2020,Ayushmann Khurrana,Kartik Singh
+Shubh Mangal Zyada Saavdhan,2020,Jitendra Kumar,Aman Tripathi
+Shubh Mangal Zyada Saavdhan,2020,Gajraj Rao,Shankar Tripathi
+Shubh Mangal Zyada Saavdhan,2020,Neena Gupta,Sunaina Tripathi
+Shubh Mangal Zyada Saavdhan,2020,Manu Rishi Chadha,Chaman Tripathi
+Shubh Mangal Zyada Saavdhan,2020,Sunita Rajwar,Champa Tripathi
+Shubh Mangal Zyada Saavdhan,2020,Maanvi Gagroo,Goggle Tripathi
+Shubh Mangal Zyada Saavdhan,2020,Pankhuri Awasthi,Kusum
+Shubh Mangal Zyada Saavdhan,2020,Neeraj Singh,Keshav
+Shubh Mangal Zyada Saavdhan,2020,Gopal Datt,Doctor
+Sooryavanshi,2021,Akshay Kumar,Veer Sooryavanshi
+Sooryavanshi,2021,Katrina Kaif,Ria Sooryavanshi
+Sooryavanshi,2021,Ajay Devgn,Bajirao Singham
+Sooryavanshi,2021,Ranveer Singh,Sangram Bhalerao
+Sooryavanshi,2021,Jackie Shroff,Omar Hafeez
+Sooryavanshi,2021,Jaaved Jaaferi,Kabir Shroff
+Sooryavanshi,2021,Gulshan Grover,Qadar Usmani
+Sooryavanshi,2021,Abhimanyu Singh,Riyaaz Hafeez / Vinod Thapar
+Sooryavanshi,2021,Nikitin Dheer,Mukhtar Ansari
+Sooryavanshi,2021,Kumud Mishra,Bilal Ahmed
+83,2021,Ranveer Singh,Kapil Dev
+83,2021,Deepika Padukone,Romi Dev
+83,2021,Tahir Raj Bhasin,Sunil Gavaskar
+83,2021,Jiiva,Krishnamachari Srikkanth
+83,2021,Saquib Saleem,Mohinder Amarnath
+83,2021,Pankaj Tripathi,PR. Man Singh
+83,2021,Chirag Patil,Sandeep Patil
+83,2021,Jatin Sarna,Yashpal Sharma
+83,2021,Harrdy Sandhu,Madan Lal
+83,2021,Nishant Dahiya,Roger Binny
+Antim: The Final Truth,2021,Salman Khan,Rajveer Singh
+Antim: The Final Truth,2021,Aayush Sharma,Rahul Patil
+Antim: The Final Truth,2021,Mahima Makwana,Manda Vichare
+Antim: The Final Truth,2021,Mahesh Manjrekar,Satya Vichare
+Antim: The Final Truth,2021,Rohit Haldikar,Ganya
+Antim: The Final Truth,2021,Jisshu Sengupta,Pitya Bagare
+Antim: The Final Truth,2021,Nikitin Dheer,Daya Bagare
+Antim: The Final Truth,2021,Upendra Limaye,Nanya Bhau
+Antim: The Final Truth,2021,Sayaji Shinde,SI Uday Nanaware
+Antim: The Final Truth,2021,Bharat Ganeshpure,Advocate Soman
+Bell Bottom,2021,Akshay Kumar,Anshul Malhotra
+Bell Bottom,2021,Vaani Kapoor,Radhika Malhotra
+Bell Bottom,2021,Lara Dutta,Indira Gandhi
+Bell Bottom,2021,Huma Qureshi,Adeela Rehman
+Bell Bottom,2021,Anjali Anand,Anjali - Ashu's wife
+Bell Bottom,2021,Adil Hussain,Santook
+Bell Bottom,2021,Dolly Ahluwalia,Raavie Malhotra
+Bell Bottom,2021,Sammy Jonas Heaney,Marcus junior
+Bell Bottom,2021,Kavi Raz,Mohammad Zia Ul-Haq
+Bell Bottom,2021,Kent Goldfinch,BBC Journalist
+Tadap,2021,Ahan Shetty,Ishana
+Tadap,2021,Tara Sutaria,Ramisa
+Tadap,2021,Saurabh Shukla,Daddy
+Tadap,2021,Kumud Mishra,Nautiyal
+Tadap,2021,Sumit Gulati,Lol
+Tadap,2021,Mangala Kenkre,Dadi
+Tadap,2021,Sourav Chakraborty,Guthli
+Tadap,2021,Rajesh Khera,Negi
+Tadap,2021,Hashim Haider,Kashi
+Tadap,2021,Sohaila Kapur,Cafe Lady
+Brahmastra - Part One - Shiva,2022,Amitabh Bachchan,Guru
+Brahmastra - Part One - Shiva,2022,Ranbir Kapoor,Shiva
+Brahmastra - Part One - Shiva,2022,Alia Bhatt,Isha
+Brahmastra - Part One - Shiva,2022,Nagarjuna Akkineni,Anish Shetty
+Brahmastra - Part One - Shiva,2022,Shah Rukh Khan,Mohan Bhargav
+Brahmastra - Part One - Shiva,2022,Dimple Kapadia,Savitri Devi
+Brahmastra - Part One - Shiva,2022,Mouni Roy,Junoon
+Brahmastra - Part One - Shiva,2022,Saurav Gurjar,Zor
+Brahmastra - Part One - Shiva,2022,Gurfateh Pirzada,Sher
+Brahmastra - Part One - Shiva,2022,Lehar Khan,Raveena
+Bhool Bhulaiyaa 2,2022,Tabu,Manjulika / Anjulika
+Bhool Bhulaiyaa 2,2022,Kartik Aaryan,Ruhan Randhawa
+Bhool Bhulaiyaa 2,2022,Kiara Advani,Reet Rathore
+Bhool Bhulaiyaa 2,2022,Rajpal Naurang Yadav,Chhote Pandit
+Bhool Bhulaiyaa 2,2022,Amar Upadhyay,Uday Rathore
+Bhool Bhulaiyaa 2,2022,Sanjay Mishra,Bade Pandit
+Bhool Bhulaiyaa 2,2022,Ashwini Kalsekar,Panditain - Bade Pandit's Wife
+Bhool Bhulaiyaa 2,2022,Milind Gunaji,Thakur - Reet's Father
+Bhool Bhulaiyaa 2,2022,Rajesh Sharma,Reet's Chacha
+Bhool Bhulaiyaa 2,2022,Sajida Khan,Reet's Chachi
+The Kashmir Files,2022,Mithun Chakraborty,Brahma Dutt
+The Kashmir Files,2022,Anupam Kher,Pushkar Nath Pandit
+The Kashmir Files,2022,Darshan Kumaar,Krishna Pandit
+The Kashmir Files,2022,Pallavi Joshi,Radhika Menon
+The Kashmir Files,2022,Chinmay Mandlekar,Farooq Ahmed Dar
+The Kashmir Files,2022,Prakash Belawadi,Dr. Mahesh Kumar
+The Kashmir Files,2022,Puneet Issar,DGP Hari Narain
+The Kashmir Files,2022,Bhasha Sumbli,Sharda Pandit
+The Kashmir Files,2022,Raj Vermaa Saurav,Afzal
+The Kashmir Files,2022,Mrinal Kulkarni,Laxmi Dutt
+Gangubai Kathiawadi,2022,Alia Bhatt,Gangubai Kathiawadi
+Gangubai Kathiawadi,2022,Shantanu Maheshwari,Afsaan
+Gangubai Kathiawadi,2022,Vijay Raaz,Raziabai
+Gangubai Kathiawadi,2022,Indira Tiwari,Kamli
+Gangubai Kathiawadi,2022,Seema Pahwa,Sheila Masi
+Gangubai Kathiawadi,2022,Varun Kapoor,Ramnik
+Gangubai Kathiawadi,2022,Jim Sarbh,Amin Faizl
+Gangubai Kathiawadi,2022,Ajay Devgn,Rahim Lala
+Gangubai Kathiawadi,2022,Aakash Pandey,Munna
+Gangubai Kathiawadi,2022,Varun Akki,Mushtaq
+Laal Singh Chaddha,2022,Aamir Khan,Laal Singh Chaddha
+Laal Singh Chaddha,2022,Ahmad Ibn Umar,young Laal
+Laal Singh Chaddha,2022,Kareena Kapoor,Rupa D'souza
+Laal Singh Chaddha,2022,Hafsa Ashraf,young Rupa
+Laal Singh Chaddha,2022,Mona Singh,Gurpreet Kaur Chaddha
+Laal Singh Chaddha,2022,Naga Chaitanya Akkineni,Balaraju 'Bala' Bodi
+Laal Singh Chaddha,2022,Manav Vij,Mohammed Paaji
+Laal Singh Chaddha,2022,Aaryaa Sharma,the woman passenger sitting in-front of Laal in the train
+Laal Singh Chaddha,2022,Arun Bali,Old Sikh Man in train
+Laal Singh Chaddha,2022,Kamini Kaushal,Old Lady in Train
+Jawan,2023,Shah Rukh Khan,Vikram Rathore / Azad
+Jawan,2023,Nayanthara,Narmada
+Jawan,2023,Vijay Sethupathi,Kalee Gaikwad
+Jawan,2023,Deepika Padukone,Aishwarya Rathore
+Jawan,2023,Sanjay Dutt,Madhavan Naik
+Jawan,2023,Priyamani,Lakshmi
+Jawan,2023,Sanya Malhotra,Eeram
+Jawan,2023,Girija Oak,Ishkra
+Jawan,2023,Lehar Khan,Kalki
+Jawan,2023,Sanjeeta Bhattacharya,Helena
+Animal,2023,Shawn Hatosy,Andrew 'Pope' Cody
+Animal,2023,Ben Robson,Craig Cody
+Animal,2023,Jake Weary,Deran Cody
+Animal,2023,Finn Cole,Joshua 'J' Cody
+Animal,2023,Ellen Barkin,Janine 'Smurf' Cody
+Animal,2023,Leila George,Janine
+Animal,2023,Christina Ochoa,Renn Randall
+Animal,2023,Molly Gordon,Nicky / ...
+Animal,2023,Aamya Deva Keroles,Lena
+Animal,2023,Carolina Guerra,Lucy
+Pathaan,2023,Shah Rukh Khan,Pathaan
+Pathaan,2023,Deepika Padukone,Rubai
+Pathaan,2023,John Abraham,Jim
+Pathaan,2023,Dimple Kapadia,Nandini
+Pathaan,2023,Ashutosh Rana,Colonel Luthra
+Pathaan,2023,Aakash Bhatija,Amol
+Pathaan,2023,Prakash Belawadi,Dr. Sahani
+Pathaan,2023,Viraf Patel,Rishi
+Pathaan,2023,Shaji Chaudhary,Raza
+Pathaan,2023,Diganta Hazarika,Joseph
+Gadar 2,2023,Sunny Deol,Tara Singh
+Gadar 2,2023,Ameesha Patel,Sakeena
+Gadar 2,2023,Utkarsh Sharma,Jeetay
+Gadar 2,2023,Simratt Kaur Randhawa,Muskaan
+Gadar 2,2023,Manish Wadhwa,Major General Hamid Iqbal
+Gadar 2,2023,Gaurav Chopra,Lieutenant Colonel Devendra rawat
+Gadar 2,2023,Manoj Bakshi,Yahya Khan
+Gadar 2,2023,Aamir Naik,Gul Khan
+Gadar 2,2023,Aaryaa Sharma,General Rani
+Gadar 2,2023,Luv Sinha,Farid
+Tiger 3,2023,Salman Khan,Tiger
+Tiger 3,2023,Katrina Kaif,Zoya
+Tiger 3,2023,Emraan Hashmi,Aatish
+Tiger 3,2023,Simran,Nasreen Irani
+Tiger 3,2023,Kumud Mishra,Rakesh Prasad Chaurasia
+Tiger 3,2023,Ranvir Shorey,Gopi Arya
+Tiger 3,2023,Chandrachoor Rai,Nikhil
+Tiger 3,2023,Vishal Jethwa,Hassan Ali
+Tiger 3,2023,Shahid Latief,General Imtiaz Haq
+Tiger 3,2023,Danish Bhatt,Captain Javed Baig

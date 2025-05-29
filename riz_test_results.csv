@@ -1,61 +1,61 @@
-Movie Title,Year,terrorism,anger,superstition,threat_to_western,misogyny,riz_score
-Dhoom,2004,1,0,0,0,0,1
-Main Hoon Na,2004,1,1,0,0,0,2
-Veer Zaara,2004,0,1,1,0,0,2
-Mangal Pandey,2005,1,1,1,1,0,4
-Sarkar,2005,1,1,0,0,1,3
-Bunty Aur Babli,2005,1,0,1,1,0,3
-Don,2006,1,1,1,0,0,3
-Dhoom 2,2006,1,0,1,0,0,2
-Fanaa,2006,1,0,1,0,0,2
-Taare Zameen Par,2007,1,1,1,0,0,3
-Om Shanti Om,2007,1,1,0,0,0,2
-Chak De India,2007,1,1,0,0,0,2
-Jodhaa Ahkbar,2008,1,1,1,0,1,4
-Sarkar Raj,2008,1,0,0,0,0,1
-Thoda Pyaar Thoda Magic,2008,0,1,1,0,0,2
-3 Idiots,2009,1,0,1,0,0,2
-Ajab Prem Ki Ghazab Kahani,2009,1,1,0,0,0,2
-Wanted,2009,1,1,1,0,1,4
-Once Upon a Time in Mumbaai,2010,1,1,0,0,0,2
-My Name is Khan,2010,1,1,0,0,0,2
-Tees Maar Khan,2010,1,0,0,0,0,1
-Don 2,2011,1,1,0,0,0,2
-Rockstar,2011,0,1,1,0,1,3
-Zindagi Na Milegi Dobara,2011,0,0,0,0,0,0
-Ek Tha Tiger,2012,1,1,0,0,0,2
-Bol Bachchan,2012,0,0,1,0,0,1
-Jab Tak Hai Jaan,2012,1,1,0,0,0,2
-Dhoom 3,2013,0,0,0,0,0,0
-Race 2,2013,1,1,0,0,0,2
-Bhaag Milka Bhaag,2013,1,1,0,0,0,2
-Bang Bang,2014,0,0,0,1,0,1
-PK,2014,1,1,0,0,0,2
-Singham Returns,2014,1,1,0,1,1,4
-Dilwale,2015,0,1,0,0,0,1
-Bajrangi Bhaijaan,2015,0,1,0,0,0,1
-Bajirao Mastani,2015,1,0,1,0,0,2
-Ae Dil Hai Mushkil,2016,0,0,1,0,0,1
-Airlift,2016,1,0,0,0,0,1
-Sultan,2016,0,1,0,0,1,2
-Secret Superstar,2017,1,1,0,0,0,2
-Tiger Zinda Hai,2017,1,1,0,1,1,4
-Raees,2017,1,0,0,0,0,1
-Padmaavat,2018,1,1,0,0,0,2
-Sanju,2018,1,1,1,0,1,4
-Thugs of Hindostan,2018,1,1,1,0,0,3
-Uri - The Surgical Strike,2019,1,0,0,0,0,1
-War,2019,1,0,0,0,0,1
-Bharat,2019,1,1,0,0,0,2
-Tanhaji - The Unsung Warrior,2020,1,1,0,0,0,2
-Street Dancer 3D,2020,1,1,1,0,0,3
-Baaghi 3,2020,1,1,1,0,0,3
-Sooryavanshi,2021,1,1,0,0,0,2
-Bell Bottom,2021,1,1,1,0,0,3
-Mumbai Saga,2021,1,1,0,0,0,2
-Gangubai Kathiawadi,2022,1,1,0,0,1,3
-Laal Singh Chaddha,2022,1,1,1,0,0,3
-The Kashmir Files,2022,1,0,1,1,1,4
-Animal,2023,1,1,1,0,0,3
-Jawan,2023,1,1,0,1,0,3
-Pathaan,2023,1,0,0,0,0,1
+Movie Title,Year,terrorism,anger,superstition,threat_to_western,misogyny,flagged_words,riz_score
+Veer Zaara,2004,0,0,0,0,0,[],0
+Main Hoon Na,2004,0,0,0,0,0,[],0
+Dhoom,2004,1,0,0,0,0,['martyr'],1
+Mangal Pandey,2005,0,1,1,0,0,"['rage', 'superstition']",2
+Sarkar,2005,0,0,0,0,1,['rape'],1
+Bunty Aur Babli,2005,1,0,0,0,0,['bomb'],1
+Fanaa,2006,1,0,0,0,0,"['bomb', 'militant']",1
+Don,2006,0,1,0,0,0,['rage'],1
+Dhoom 2,2006,0,0,0,0,0,[],0
+Taare Zameen Par,2007,0,0,0,0,0,[],0
+Om Shanti Om,2007,0,0,0,0,0,[],0
+Chak De India,2007,0,0,0,0,0,[],0
+Thoda Pyaar Thoda Magic,2008,0,0,0,0,0,[],0
+Sarkar Raj,2008,1,0,0,0,0,['bomb'],1
+Jodhaa Ahkbar,2008,0,1,0,0,1,"['furious', 'rape']",2
+Wanted,2009,1,0,0,0,1,"['bomb', 'rape', 'prostitution']",2
+3 Idiots,2009,0,0,0,0,0,[],0
+Ajab Prem Ki Ghazab Kahani,2009,1,0,0,0,0,['bomb'],1
+Tees Maar Khan,2010,0,0,0,0,0,[],0
+Once Upon a Time in Mumbaai,2010,0,0,0,0,0,[],0
+My Name is Khan,2010,1,0,0,0,0,"['jihad', 'extremist']",1
+Zindagi Na Milegi Dobara,2011,0,0,0,0,0,[],0
+Don 2,2011,1,0,0,0,0,['bomb'],1
+Rockstar,2011,0,0,0,0,1,['rape'],1
+Ek Tha Tiger,2012,0,0,0,0,0,[],0
+Bol Bachchan,2012,0,0,0,0,0,[],0
+Jab Tak Hai Jaan,2012,1,0,0,0,0,['bomb'],1
+Race 2,2013,1,0,0,0,0,['bomb'],1
+Dhoom 3,2013,0,0,0,0,0,[],0
+Bhaag Milka Bhaag,2013,0,1,0,0,0,['rage'],1
+Singham Returns,2014,1,1,0,0,1,"['rage', 'furious', 'rape', 'martyr']",3
+PK,2014,1,0,0,0,0,['bomb'],1
+Bang Bang,2014,0,0,0,0,0,[],0
+Bajrangi Bhaijaan,2015,0,0,0,0,0,[],0
+Dilwale,2015,0,1,0,0,0,['furious'],1
+Bajirao Mastani,2015,1,0,1,0,0,"['superstition', 'martyr']",2
+Ae Dil Hai Mushkil,2016,0,0,0,0,0,[],0
+Airlift,2016,0,0,0,0,0,[],0
+Sultan,2016,0,1,0,0,1,"['rage', 'submission']",2
+Tiger Zinda Hai,2017,1,0,0,0,1,"['bomb', 'rape']",2
+Secret Superstar,2017,0,1,0,0,0,['rage'],1
+Raees,2017,1,0,0,0,0,['bomb'],1
+Thugs of Hindostan,2018,1,0,0,0,0,['martyr'],1
+Padmaavat,2018,1,1,0,0,0,"['rage', 'martyr']",2
+Sanju,2018,1,0,1,0,1,"['bomb', 'orthodox', 'rape']",3
+Bharat,2019,0,0,0,0,0,[],0
+Uri - The Surgical Strike,2019,1,0,0,0,0,"['bomb', 'martyr']",1
+War,2019,1,0,0,0,0,"['militant', 'jihad', 'martyr', 'inshallah']",1
+Tanhaji - The Unsung Warrior,2020,0,1,0,0,0,['rage'],1
+Street Dancer 3D,2020,1,1,0,0,0,"['bomb', 'rage', 'furious']",2
+Baaghi 3,2020,1,1,0,0,0,"['bomb', 'furious']",2
+Sooryavanshi,2021,1,0,0,0,0,"['bomb', 'jihad', 'martyr']",1
+Bell Bottom,2021,1,1,0,0,0,"['rage', 'martyr']",2
+Mumbai Saga,2021,0,1,0,0,0,['furious'],1
+The Kashmir Files,2022,1,0,0,0,1,"['militant', 'jihad', 'martyr', 'bomb', 'inshallah', 'rape']",2
+Gangubai Kathiawadi,2022,0,0,0,0,1,"['rape', 'prostitution']",1
+Laal Singh Chaddha,2022,1,0,0,0,0,"['bomb', 'martyr']",1
+Animal,2023,1,1,0,0,0,"['bomb', 'furious']",2
+Jawan,2023,1,1,0,0,0,"['bomb', 'rage', 'martyr']",2
+Pathaan,2023,1,0,0,0,0,"['bomb', 'martyr', 'extremist']",1

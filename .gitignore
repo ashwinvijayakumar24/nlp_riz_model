@@ -65,3 +65,5 @@ coverage/
 
 # Optional: if using Jupyter
 .ipynb_checkpoints/
+
+notes.md
