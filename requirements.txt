@@ -1,0 +1,14 @@
+pandas>=1.3.0
+numpy>=1.21.0
+spacy>=3.0.0
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.0.0/en_core_web_sm-3.0.0-py3-none-any.whl
+scikit-learn>=0.24.0
+transformers>=4.20.0
+torch>=1.10.0
+sentencepiece>=0.1.96
+protobuf>=3.20.0
+matplotlib>=3.3.0
+jupyter>=1.0.0
+tqdm>=4.62.0
+scipy>=1.7.0
+imdb>=2021.4.18

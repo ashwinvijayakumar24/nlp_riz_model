@@ -37,7 +37,7 @@ for year, movies in movie_dict.items():
             if not search_results:
                 print(f"Movie not found: {movie_title} ({year})")
                 continue
-            if movie_title == "Dhoom" or movie_title == "Kick":
+            if movie_title == "Dhoom" or movie_title == "Kick" or movie_title == "Animal":
                 movie_id = search_results[1].movieID
             elif movie_title == "Race" or movie_title == "Bodyguard" or movie_title == "Ready" or movie_title == "Bang Bang":
                 movie_id = search_results[3].movieID
@@ -48,7 +48,7 @@ for year, movies in movie_dict.items():
             elif movie_title == "Welcome":
                 movie_id = search_results[6].movieID
             elif movie_title == "War":
-                movie_id = search_results[9].movieID           
+                movie_id = search_results[9].movieID     
             else:
                 movie_id = search_results[0].movieID
 

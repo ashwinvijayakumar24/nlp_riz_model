@@ -1,4 +1,3 @@
-import re
 import pandas as pd
 
 def parse_srt(file_path, movie_title, year):
@@ -21,26 +20,46 @@ def parse_srt(file_path, movie_title, year):
 
 
 movie_dict = {
-    2004: ['Veer Zaara', 'Main Hoon Na', "Dhoom"], 
-    2005: ['Bunty Aur Babli', 'Mangal Pandey', 'Sarkar'],
-    2006: ['Dhoom 2', 'Don', 'Fanaa'],
-    2007: ['Om Shanti Om', 'Chak De India', 'Taare Zameen Par'],
-    2008:['Jodhaa Ahkbar', 'Sarkar Raj', 'Thoda Pyaar Thoda Magic'],
-    2009: ['3 Idiots', 'Ajab Prem Ki Ghazab Kahani', 'Wanted' ],
-    2010: ['My Name is Khan', 'Tees Maar Khan', 'Once Upon a Time in Mumbaai' ],
-    2011: ['Don 2', 'Zindagi Na Milegi Dobara', 'Rockstar'],
-    2012: ['Ek Tha Tiger', 'Jab Tak Hai Jaan', 'Bol Bachchan'],
-    2013: ['Dhoom 3', 'Race 2', 'Bhaag Milka Bhaag'],
-    2014: ['PK', 'Bang Bang', 'Singham Returns'],
-    2015: ['Bajrangi Bhaijaan', 'Dilwale', 'Bajirao Mastani'],
-    2016: ['Sultan', 'Ae Dil Hai Mushkil', 'Airlift'],
-    2017: ['Secret Superstar', 'Tiger Zinda Hai', 'Raees'],
-    2018: ['Sanju', 'Padmaavat', 'Thugs of Hindostan'],
-    2019: ['War', 'Uri - The Surgical Strike', 'Bharat'],
-    2020: ['Tanhaji - The Unsung Warrior', 'Baaghi 3', 'Street Dancer 3D'],
-    2021: ['Sooryavanshi', 'Bell Bottom', 'Mumbai Saga'],
-    2022: ['The Kashmir Files', 'Gangubai Kathiawadi', 'Laal Singh Chaddha'],
-    2023: ['Jawan', 'Pathaan', 'Animal'],
+    # 2004: ['Veer Zaara', 'Main Hoon Na', "Dhoom"], 
+    # 2005: ['Bunty Aur Babli', 'Mangal Pandey', 'Sarkar'],
+    # 2006: ['Dhoom 2', 'Don', 'Fanaa'],
+    # 2007: ['Om Shanti Om', 'Chak De India', 'Taare Zameen Par'],
+    # 2008: ['Jodhaa Ahkbar', 'Sarkar Raj', 'Thoda Pyaar Thoda Magic'],
+    # 2009: ['3 Idiots', 'Ajab Prem Ki Ghazab Kahani', 'Wanted' ],
+    # 2010: ['My Name is Khan', 'Tees Maar Khan', 'Once Upon a Time in Mumbaai' ],
+    # 2011: ['Don 2', 'Zindagi Na Milegi Dobara', 'Rockstar'],
+    # 2012: ['Ek Tha Tiger', 'Jab Tak Hai Jaan', 'Bol Bachchan'],
+    # 2013: ['Dhoom 3', 'Race 2', 'Bhaag Milka Bhaag'],
+    # 2014: ['PK', 'Bang Bang', 'Singham Returns'],
+    # 2015: ['Bajrangi Bhaijaan', 'Dilwale', 'Bajirao Mastani'],
+    # 2016: ['Sultan', 'Ae Dil Hai Mushkil', 'Airlift'],
+    # 2017: ['Secret Superstar', 'Tiger Zinda Hai', 'Raees'],
+    # 2018: ['Sanju', 'Padmaavat', 'Thugs of Hindostan'],
+    # 2019: ['War', 'Uri - The Surgical Strike', 'Bharat'],
+    # 2020: ['Tanhaji - The Unsung Warrior', 'Baaghi 3', 'Street Dancer 3D'],
+    # 2021: ['Sooryavanshi', 'Bell Bottom', 'Mumbai Saga'],
+    # 2022: ['The Kashmir Files', 'Gangubai Kathiawadi', 'Laal Singh Chaddha'],
+    # 2023: ['Jawan', 'Pathaan', 'Animal'],
+    2004: ["Veer Zaara", "Main Hoon Na", "Dhoom"],
+    2005: ["Mangal Pandey", "Sarkar", "Dus"],
+    2006: ["Dhoom 2", "Don", "Fanaa"],
+    2007: ["Chak de India", "Taare Zameen Par", "Heyy Babyy"],
+    2008: ["Jodhaa Akbar", "Sarkar Raj", "Jannat: In Search of Heaven"],
+    2009: ["3 Idiots", "Ajab Prem Ki Ghazab Kahani", "Wanted"],
+    2010: ["My Name is Khan", "Tees Maar Khan", "Kites"],
+    2011: ["Don 2", "Zindagi Na Milegi Dobara", "Rockstar"],
+    2012: ["Ek Tha Tiger", "Jab Tak Hai Jaan", "Rowdy Rathore"],
+    2013: ["Dhoom 3", "Race 2", "Aashiqui 2"],
+    2014: ["PK", "Bang Bang", "Jai Ho"],
+    2015: ["Bajrangi Bhaijaan", "Dilwale", "Bajirao Mastani"],
+    2016: ["Sultan", "Ae Dil Hai Mushkil", "Airlift"],
+    2017: ["Tiger Zinda Hai", "Raees", "Jolly LLB 2"],
+    2018: ["Sanju", "Padmaavat", "Baaghi 2"],
+    2019: ["War", "Uri - The Surgical Strike", "Bharat"],
+    2020: ["Baaghi 3", "Street Dancer 3D", "Chhapaak"],
+    2021: ["Sooryavanshi", "Bell Bottom", "Roohi"],
+    2022: ["The Kashmir Files", "Gangubai Kathiawadi", "Laal Singh Chaddha"],
+    2023: ["Jawan", "Animal", "Pathaan"]
 }
 
 
@@ -56,7 +75,7 @@ for year, movies in movie_dict.items():
             print(f"Warning: Subtitle file '{file_name}' not found for {movie} ({year})")
 
 
-all_movies_df.to_csv("structured_dialogues.csv", index=False)
+all_movies_df.to_csv("final_structured_dialogues.csv", index=False)
 
 print("CSV file updated successfully!")
 
